@@ -24,3 +24,12 @@ h1 {
     text-align: center;
     line-height: normal;
 }
+
+
+form {
+    margin: 0 20%;
+}
+
+.attribution {
+    font-size: 0.5rem;
+}
