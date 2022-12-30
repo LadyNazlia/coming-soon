@@ -1,0 +1,26 @@
+html {
+    color: white;
+    background-color: black;
+}
+
+
+@media screen and (max-width: 420px) {
+    
+    #mainImg {
+        width: 100%;
+    } 
+
+    #logo {
+        width: 9%;
+        padding-top: 1%;
+        padding-left: 1%;
+    }
+
+}
+
+h1 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 3rem;
+    text-align: center;
+    line-height: normal;
+}
